@@ -1,0 +1,5 @@
+---
+applications:
+ - name: pythonapi
+   random-route: true
+   memory: 128M
